@@ -1,0 +1,10 @@
+.btn-success {
+  width: 50rem;
+}
+.otp-value {
+  font-size: 4rem;
+  font-family: cursive;
+}
+.otp-value span {
+  font-weight: 700;
+}
